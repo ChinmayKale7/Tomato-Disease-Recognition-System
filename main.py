@@ -53,7 +53,7 @@ elif(app_mode=="About"):
                 #### **About the Dataset**  
 This dataset has been **enhanced through offline augmentation** based on the original dataset, which is available on a GitHub repository.  
 
-It contains approximately **87,000 RGB images** of both **healthy and diseased crop leaves**, categorized into **38 different classes**. The dataset is split into **80% training** and **20% validation**, maintaining the original directory structure.  
+It contains approximately **87,000 RGB images** of both **healthy and diseased crop leaves**, categorized into **10 different classes**. The dataset is split into **80% training** and **20% validation**, maintaining the original directory structure.  
 
                  """)
 
